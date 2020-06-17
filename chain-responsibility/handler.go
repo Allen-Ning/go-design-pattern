@@ -1,4 +1,4 @@
-package main
+package chain_responsibility
 
 type request struct {
 	id int
